@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mahos-H&repo=readme-stats)]([https://github.com/anuraghazra/github-readme-stats](https://vercel.live/link/readme-stats-two-azure.vercel.app?via=project-dashboard-alias-list&p=1&page=/))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mahos-H&repo=readme-stats)]([(https://vercel.live/link/readme-stats-two-azure.vercel.app?via=project-dashboard-alias-list&p=1&page=/)])
 <!--
 **Mahos-H/Mahos-H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
