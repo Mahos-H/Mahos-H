@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Readme Card](https://vercel.com/soham-haldars-projects-419ccf38/github-readme-stats-fzvp/D42PKMSbu5Mf84cHX5dmv16KW48n/api?username=Mahos-H&show_icons=true&theme=transparent)
+![Readme Card](https://github-readme-stats-fzvp.vercel.app/api?username=Mahos-H&show_icons=true&theme=transparent)
 
 
 <!--
