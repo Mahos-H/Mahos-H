@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ![Top Langs](https://github-readme-stats-fzvp.vercel.app/api?username=Mahos-H&layout=donut-vertical&show_icons=true&theme=transparent)
-![Readme Card](https://vercel.com/soham-haldars-projects-419ccf38/github-readme-stats-fzvp/HT6XQE2QaRJB74XTSzPt6Wn4Ubau/api?username=Mahos-H&show_icons=true&theme=transparent)
+![Readme Card](https://github-readme-stats-fzvp-c7rt9uy7i.vercel.app/api?username=Mahos-H&show_icons=true&theme=transparent)
 
 <!--
 **Mahos-H/Mahos-H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
